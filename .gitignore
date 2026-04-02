@@ -32,4 +32,4 @@ env/
 Thumbs.db
 
 # Logs
-*.log
+*.log.idea/
