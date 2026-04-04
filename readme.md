@@ -1,6 +1,6 @@
 # RAG Code Analyst
 
-Universal Retrieval-Augmented Generation system for analyzing Python code repositories
+Universal Retrieval-Augmented Generation system for analyzing Python code repositories.
 
 Python 3.10+ | LangChain 0.3.27 | Ollama | Active Development
 
@@ -60,7 +60,7 @@ For the requests library:
 - How to send POST request with JSON data?
 - What does the Session class do?
 - How are Cookies handled?
-- What authentication methods are available?
+- What authentication methods are available? 
 
 ## Troubleshooting
 
